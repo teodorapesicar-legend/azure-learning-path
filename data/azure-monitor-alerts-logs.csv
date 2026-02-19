@@ -1,0 +1,2 @@
+Name,Severity,Affected resource,Target resource type,Alert condition,User response,Monitor service,Signal type,Fire time,Last modified time,Subscription,Target resource group,Suppression status
+policy-noncompliance-activitylog,Sev4,/subscriptions/[subscription-id]//resourcegroups/governancerg/providers/microsoft.storage/storageaccounts/compliance1test,microsoft.storage/storageaccounts,Fired,New,ActivityLog Policy,Activity log,2026-01-11T12:00:10.9256639Z,2026-01-11T12:00:10.9256639Z,[subscription-id],governancerg,None

@@ -1,0 +1,5 @@
+Assignment name,Scope,Type
+ASC Default (subscription: [subscription-id]),Azure subscription 1,Initiative
+Require a tag and its value on resources,Azure subscription 1,Policy
+Require a tag and its value on resources,Azure subscription 1,Policy
+Require a tag and its value on resources,Azure subscription 1,Policy
